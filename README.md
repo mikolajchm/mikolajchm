@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prsima/prisma-original.svg" height="40" alt="prisma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prsima/prismajs-original.svg" height="40" alt="prismajs logo"  />
 </div>
 
 ###
