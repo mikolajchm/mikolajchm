@@ -4,7 +4,7 @@
 
 <p align="left">My name is Mikołaj and I'm a Junior JavaScript Developer</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with : </h2>
 
 ###
 
