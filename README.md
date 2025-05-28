@@ -1,5 +1,11 @@
 # 👋 Hello, my name is Mikołaj!
 
+<p>
+  Ambitious junior JavaScript developer and a second-year Computer Science student at SGGW.
+  I work primarily with JavaScript, TypeScript, Node.js, React, and MongoDB. Passionate about clean code, continuous learning, and building real-world applications.
+  I enjoy collaborating in a team environment and am always open to new challenges that push my skills forward. Currently looking for opportunities to grow as a developer and contribute to meaningful projects.
+</p>
+
 ## 🧰 Tech Stack
 
 <p>
