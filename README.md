@@ -21,21 +21,15 @@
 
 ## 💻 Projects
 
-**[YachtTrade](https://github.com/mikolajchm/YachtTrade)** – Marketplace for yachts and watercrafts: list, search, sell, manage. Technology: Node.js, Express, MongoDB, React.
-**[Hospital App](https://github.com/mikolajchm/HospitalApp)** – A web system for hospitals designed to manage patients effectively. Add, remove, edit, and view patient records. Technology: Node.js, Express, MongoDB, React.
-**[Currency-Exchange-Journal]** – is comming ...
-
-YachtTrade
+**[YachtTrade](https://github.com/mikolajchm/YachtTrade)**
 Marketplace for yachts and watercrafts – list, search, sell, and manage listings.
 Tech stack: Node.js, Express, MongoDB, React.
 
-Hospital App
+**[Hospital App](https://github.com/mikolajchm/HospitalApp)**
 A web system for hospitals designed to manage patients effectively. Add, remove, edit, and view patient records.
 Tech stack: Node.js, Express, MongoDB, React.
 
 Currency Exchange Journal – coming soon...
-
-
 
 ---
 
