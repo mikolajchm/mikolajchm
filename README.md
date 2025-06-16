@@ -22,8 +22,8 @@
 ## 💻 Projects
 
 🔧 **[YachtTrade](https://github.com/mikolajchm/YachtTrade)** – Marketplace for yachts and watercrafts: list, search, sell, manage. Technology: Node.js, Express, MongoDB, React.
+🔧 **[Hospital App](https://github.com/mikolajchm/HospitalApp)** – A web system for hospitals designed to manage patients effectively. Add, remove, edit, and view patient records. Technology: Node.js, Express, MongoDB, React.
 🔧 **[Currency-Exchange-Journal]** – is comming ...
-🔧 **[project 3]** – is comming ...
 
 ---
 
